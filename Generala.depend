@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1664306623 source:c:\users\tvera\downloads\tamara\programación\clases kloster\poo - archivos\generala\main.cpp
+	<iostream>
+
+1670279940 source:c:\users\tvera\downloads\tamara\generala\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+	"juego.h"
+
+1571584339 c:\users\tvera\downloads\tamara\generala\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670279922 c:\users\tvera\downloads\tamara\generala\generala\funciones.h
+
+1670278651 c:\users\tvera\downloads\tamara\generala\generala\juego.h
+	"funciones.h"
+
+1670377730 source:c:\users\tamii\downloads\generala\generala prueba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+	"juego.h"
+
+1571584339 c:\users\tamii\downloads\generala\generala prueba\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670419639 c:\users\tamii\downloads\generala\generala prueba\funciones.h
+
+1670419860 c:\users\tamii\downloads\generala\generala prueba\juego.h
+	"funciones.h"
+
+1670360174 source:c:\users\tvera\downloads\tamara\generala\generala prueba\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+	"juego.h"
+
+1571584339 c:\users\tvera\downloads\tamara\generala\generala prueba\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670360353 c:\users\tvera\downloads\tamara\generala\generala prueba\funciones.h
+
+1670360353 c:\users\tvera\downloads\tamara\generala\generala prueba\juego.h
+	"funciones.h"
+
+1670377730 source:c:\users\tamii\downloads\generala\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+	"juego.h"
+
+1571584339 c:\users\tamii\downloads\generala\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1670419639 c:\users\tamii\downloads\generala\generala\funciones.h
+
+1670423746 c:\users\tamii\downloads\generala\generala\juego.h
+	"funciones.h"
+
+1676214569 source:c:\users\tamii\desktop\generala\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+	"juego.h"
+
+1571584339 c:\users\tamii\desktop\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1676165619 c:\users\tamii\desktop\generala\funciones.h
+
+1676162055 c:\users\tamii\desktop\generala\juego.h
+	"funciones.h"
+
